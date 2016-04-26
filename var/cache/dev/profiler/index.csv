@@ -1,0 +1,11 @@
+bad365,127.0.0.1,GET,http://localhost:8000/,1461701661,,200
+baa8e9,127.0.0.1,GET,http://localhost:8000/images/blue-arrow.png,1461702910,08b2cc,200
+08b2cc,127.0.0.1,GET,http://localhost:8000/images/blue-arrow.png,1461702911,,404
+c07806,127.0.0.1,GET,http://localhost:8000/lucky/number,1461703575,b71884,200
+b71884,127.0.0.1,GET,http://localhost:8000/lucky/number,1461703575,,404
+5f833c,127.0.0.1,GET,http://localhost:8000/lucky/number,1461703771,1bf4c8,200
+1bf4c8,127.0.0.1,GET,http://localhost:8000/lucky/number,1461703771,,404
+b9e0de,127.0.0.1,GET,http://localhost:8000/lucky/number.php,1461703777,d9419b,200
+d9419b,127.0.0.1,GET,http://localhost:8000/lucky/number.php,1461703777,,404
+e36ec9,127.0.0.1,GET,http://localhost:8000/lucky/number,1461703818,45c4cb,200
+45c4cb,127.0.0.1,GET,http://localhost:8000/lucky/number,1461703818,,404
